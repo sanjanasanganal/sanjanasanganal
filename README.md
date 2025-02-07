@@ -29,7 +29,7 @@
 
 
 
-<p align="left"><br>📚 I'm 2nd Year computer science Student <br> 🌱 I’m currently learning CyberSecurity <br>
+<p align="left"><br>📚 I'm 3nd Year computer science Student <br> 🌱 I’m currently learning CyberSecurity <br>
 
 ###
 
